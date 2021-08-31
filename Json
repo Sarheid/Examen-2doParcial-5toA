@@ -1,0 +1,76 @@
+{
+    "Clientes": [
+      {
+      "cedula" : "9999999999",
+        "apellidos": "Thalida Dayana",
+        "nombres": "Pilozo Ortiz",
+        "direccion": "Flavio Reyes",
+        "telefono": "099999999"
+     },
+  
+      {
+        "cedula" : "9999999999",
+        "apellidos": "Intriago Bermudez",
+        "nombres": "Johan",
+        "direccion": "Flavio Reyes",
+        "telefono": "099999999"
+     },
+     {
+        "cedula" : "9999999999",
+        "apellidos": "Cañinares",
+        "nombres": "Daniela",
+        "direccion": "Flavio Reyes",
+        "telefono": "099999999"
+     },
+     {
+        "cedula" : "9999999999",
+        "apellidos": "Reyes",
+        "nombres": "Byron",
+        "direccion": "Flavio Reyes",
+        "telefono": "099999999"
+     },
+     {
+        "cedula" : "9999999999",
+        "apellidos": "Perez",
+        "nombres": "Ramiro",
+        "direccion": "Flavio Reyes",
+        "telefono": "099999999"
+     },
+     {
+        "cedula" : "9999999999",
+        "apellidos": "Cedeño",
+        "nombres": "Gema",
+        "direccion": "Flavio Reyes",
+        "telefono": "099999999"
+     },
+     {
+        "cedula" : "9999999999",
+        "apellidos": "Yepez",
+        "nombres": "Derek",
+        "direccion": "Flavio Reyes",
+        "telefono": "099999999"
+     },
+     {
+        "cedula" : "9999999999",
+        "apellidos": "Bravo",
+        "nombres": "Celio",
+        "direccion": "La bramadora",
+        "telefono": "099999999"
+     },
+     {
+        "cedula" : "9999999999",
+        "apellidos": "Meunier",
+        "nombres": "Rashell",
+        "direccion": "La bramadora",
+        "telefono": "099999999"
+     },
+     {
+        "cedula" : "9999999999",
+        "apellidos": "Pin",
+        "nombres": "Pablo",
+        "direccion": "Flavio Reyes",
+        "telefono": "099999999"
+     }
+    ]
+}
+    
