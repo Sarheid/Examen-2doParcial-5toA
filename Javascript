@@ -1,0 +1,21 @@
+const conexion = require('./con_base_datos')
+
+module.exports = app => {
+    const connect = conexion
+
+    app.post('/registro_de_datos', (req, res) => {
+        const cedula = req.body.cedula
+        const apellidos = req.body.apellidos
+        const nombres = req.body.nombres
+        const direccion = req.body.direccion
+        const telefono = req.body.telefono
+        const correo = req.body.correo
+    
+
+        connect.query('insert into estudiantes SET ?', {
+            cedula, apellidos, nombres, direccion, semestre, correo, telefono
+        }, (error, resultado) => {
+            res.redirect('/registro')
+        })
+    })
+}
